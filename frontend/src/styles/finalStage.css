@@ -1,0 +1,50 @@
+.final-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: black;
+  background-image: url('../assets/final_bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ffffff;  /* Change text to white */
+  text-shadow: 0 0 10px rgba(0,0,0,0.7); /* Optional: adds glow for readability */
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.final-stage .container {
+  max-width: 400px;
+  width: 100%;
+}
+
+.final-stage input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.final-stage button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #00ff88;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.final-stage button:hover {
+  background-color: #00cc6a;
+}
+
+.final-stage p.message {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic;
+}
