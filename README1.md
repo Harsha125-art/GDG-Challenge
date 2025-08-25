@@ -30,7 +30,9 @@ The project follows a **frontend-focused architecture** with clean separation of
 ## 📸 Screenshots & GIFs
 | Cyberpunk Welcome Screen | Matrix Animation | ASCII Art Banner |
 |--------------------------|------------------|------------------|
-| ![Screenshot 1]() | ![Screenshot 2]() | ![Screenshot 3]() |
+| ![Screenshot 1](https://github.com/Harsha125-art/GDG-Challenge/blob/489d9f340244aa59941fe532aab41526c1d2ec13/Login_page.png) | 
+![Screenshot 2](https://github.com/Harsha125-art/GDG-Challenge/blob/489d9f340244aa59941fe532aab41526c1d2ec13/Home_Page.png) | 
+![Screenshot 3](https://github.com/Harsha125-art/GDG-Challenge/blob/489d9f340244aa59941fe532aab41526c1d2ec13/Final_step_Page.png) |
 
 ---
 
@@ -57,11 +59,11 @@ On the Welcome Screen, a Part 1 Key is hidden.
 
 It becomes visible only when hovered with the mouse.
 
-A small hint is provided to inspect the page.
+A small hint is provided to inspect the page.  **spolier- the secret key is at right top 
 
 </details> <details> <summary>🕵️ Step 3: Inspecting Page & Puzzle Clue</summary>
 
-By inspecting the page elements, the user finds a hidden comment containing a puzzle.
+**spoiler - By inspecting the page elements, the user finds a hidden comment containing a puzzle.
 
 The puzzle reveals a page address (API endpoint).
 
@@ -71,13 +73,13 @@ That page is only accessible if logged in.
 
 On the hidden API-based page, the Part 2 Key is revealed.
 
-However, the page also contains a hidden button.
+However, the page also contains a hidden button. 
 
 </details> <details> <summary>🕵️ Step 5: Hidden Button Discovery</summary>
 
 The hidden button is not visibly displayed.
 
-The mouse pointer changes into a hand symbol only when hovering over it.
+**spoiler - The mouse pointer changes into a hand symbol only when hovering over it.
 
 Clicking this button directs the user to the final page.
 
