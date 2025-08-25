@@ -23,7 +23,7 @@ The project follows a **frontend-focused architecture** with clean separation of
 ---
 
 ## 🎥 Demonstration Video
-👉 [Watch the Demo (YouTube Link)]()  
+👉 [Watch the Demo (YouTube Link)](https://youtu.be/VA00sI5D-h8?si=_dXgsfmTYGmOSyb_)  
 
 ---
 
