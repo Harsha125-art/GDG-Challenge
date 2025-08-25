@@ -53,7 +53,7 @@ The user must first log in to access the puzzle.
 
 Once logged in, a cookie is generated that grants access to the secret-key journey.
 
-🕵️ Step 2: Part 1 Key (Hidden on Welcome Page)</summary>
+🕵️ Step 2: Part 1 Key (Hidden on Welcome Page)
 
 On the Welcome Screen, a Part 1 Key is hidden.
 
@@ -61,7 +61,7 @@ It becomes visible only when hovered with the mouse.
 
 A small hint is provided to inspect the page.  **spolier- the secret key is at right top 
 
-🕵️ Step 3: Inspecting Page & Puzzle Clue</summary>
+🕵️ Step 3: Inspecting Page & Puzzle Clue
 
 **spoiler - By inspecting the page elements, the user finds a hidden comment containing a puzzle.
 
@@ -69,13 +69,13 @@ The puzzle reveals a page address (API endpoint).
 
 That page is only accessible if logged in.
 
-🕵️ Step 4: Part 2 Key (API Page)</summary>
+🕵️ Step 4: Part 2 Key (API Page
 
 On the hidden API-based page, the Part 2 Key is revealed.
 
 However, the page also contains a hidden button. 
 
-🕵️ Step 5: Hidden Button Discovery</summary>
+🕵️ Step 5: Hidden Button Discovery
 
 The hidden button is not visibly displayed.
 
@@ -83,7 +83,7 @@ The hidden button is not visibly displayed.
 
 Clicking this button directs the user to the final page.
 
-🕵️ Step 6: Submitting the Final Key</summary>
+🕵️ Step 6: Submitting the Final Key
 
 On the final page, the user must enter the complete key (Part 1 + Part 2).
 
