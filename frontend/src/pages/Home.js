@@ -26,7 +26,7 @@ Not all secrets live in the <span class="coded">centre</span>. — sometimes the
         {/* Hidden part of the secret */}
         <div>
           <span className="hidden-key" style={{ fontSize: "18px", fontWeight: "bold" }}>
-            Xa1
+           secret key(part1)- Xa1
             <br />
             <span style={{ fontSize: "10px", opacity: 0.6 }}>
               – try inspecting page for fun
