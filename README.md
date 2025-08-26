@@ -49,7 +49,7 @@ npm run build
 🔑 Secret Key Implementation (Puzzle Walkthrough)
 🕵️ Step 1: Login & Cookie Generation</summary>
 
-The user must first log in to access the puzzle.
+The user must first log in to access the puzzle. acess- username: player pass : hunt123
 
 Once logged in, a cookie is generated that grants access to the secret-key journey.
 
@@ -63,7 +63,7 @@ A small hint is provided to inspect the page.  **spolier- the secret key is at r
 
 🕵️ Step 3: Inspecting Page & Puzzle Clue
 
-**spoiler - By inspecting the page elements, the user finds a hidden comment containing a puzzle.
+**spoiler - By inspecting the page elements, the user finds a hidden comment containing a puzzle. answer-ELA address-/ELA
 
 The puzzle reveals a page address (API endpoint).
 
